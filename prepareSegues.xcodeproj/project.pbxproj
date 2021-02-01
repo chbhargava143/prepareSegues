@@ -14,6 +14,7 @@
 		4C6395D625C846640070AEEB /* prepareSegues.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4C6395D425C846640070AEEB /* prepareSegues.xcdatamodeld */; };
 		4C6395D825C846680070AEEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C6395D725C846680070AEEB /* Assets.xcassets */; };
 		4C6395DB25C846680070AEEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C6395D925C846680070AEEB /* LaunchScreen.storyboard */; };
+		4C6395E425C8468A0070AEEB /* blueVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6395E325C8468A0070AEEB /* blueVc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4C6395D725C846680070AEEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C6395DA25C846680070AEEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C6395DC25C846680070AEEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C6395E325C8468A0070AEEB /* blueVc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = blueVc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				4C6395CB25C846640070AEEB /* AppDelegate.swift */,
 				4C6395CD25C846640070AEEB /* SceneDelegate.swift */,
 				4C6395CF25C846640070AEEB /* ViewController.swift */,
+				4C6395E325C8468A0070AEEB /* blueVc.swift */,
 				4C6395D125C846640070AEEB /* Main.storyboard */,
 				4C6395D725C846680070AEEB /* Assets.xcassets */,
 				4C6395D925C846680070AEEB /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C6395E425C8468A0070AEEB /* blueVc.swift in Sources */,
 				4C6395D025C846640070AEEB /* ViewController.swift in Sources */,
 				4C6395D625C846640070AEEB /* prepareSegues.xcdatamodeld in Sources */,
 				4C6395CC25C846640070AEEB /* AppDelegate.swift in Sources */,
